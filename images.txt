@@ -1,1 +1,1 @@
-portainer/agent:2.11.1
+--platform=linux/arm64 portainer/agent:2.11.1
