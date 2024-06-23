@@ -6,7 +6,7 @@ swr.cn-east-3.myhuaweicloud.com/chaitin-safeline/safeline-tengine
 swr.cn-east-3.myhuaweicloud.com/chaitin-safeline/safeline-bridge
 swr.cn-east-3.myhuaweicloud.com/chaitin-safeline/safeline-detector
 swr.cn-east-3.myhuaweicloud.com/chaitin-safeline/safeline-postgres:15.2
-ghcr.io/labring/fastgpt:4.8.1
+ghcr.io/labring/fastgpt:v4.8.1
 ghcr.io/songquanpeng/one-api
 pgvector/pgvector:0.7.0-pg15
 redis:7
