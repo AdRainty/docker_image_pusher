@@ -1,1 +1,1 @@
-apache/dubbo-admin
+rabbitmq:3.13-management
