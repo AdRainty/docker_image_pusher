@@ -1,1 +1,1 @@
-Meilisearch
+meilisearch
