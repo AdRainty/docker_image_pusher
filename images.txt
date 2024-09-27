@@ -1,4 +1,2 @@
-apacherocketmq/rocketmq-dashboard
-openjdk:17
-halohub/halo:2.16
-nginx
+mysql:8
+redis:7
