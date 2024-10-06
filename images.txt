@@ -1,2 +1,7 @@
-mysql:8
-redis:7
+nacos/nacos-server:v2.2.1
+minio/minio
+jenkins/jenkins:2.415
+sonatype/nexus3
+mongo
+zookeeper:3.5.7
+kafka:3.6.1
