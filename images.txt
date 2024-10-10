@@ -1,1 +1,1 @@
-ngrok/ngrok
+ubuntu:18.04
