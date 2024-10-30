@@ -1,1 +1,1 @@
-coder/coder
+ghcr.io/coder/coder:latest
