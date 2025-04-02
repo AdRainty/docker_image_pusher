@@ -1,1 +1,2 @@
-ghcr.io/coder/coder:latest
+estrellaxd/auto_bangumi
+linuxserver/qbittorrent
