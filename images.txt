@@ -1,1 +1,1 @@
-ghcr.io/home-assistant/home-assistant:stable
+phpmyadmin:5.2.2
