@@ -1,1 +1,1 @@
-hsuyelin/nas-tools:3.4.1-debian
+linuxserver/jackett:v0.22.2235-ls115
