@@ -1,1 +1,1 @@
-apache/seata-server:2.5.0
+apache/seata-naming-server:2.5.0
