@@ -1,1 +1,1 @@
-jellyfin/jellyfin:2025100605
+ghcr.io/huggingface/text-generation-inference:3.3.4
